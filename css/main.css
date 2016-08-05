@@ -16,6 +16,9 @@ header  {
     display: table;
     width: 100%;
 }
+.bg-home h1 {
+	font-size: 30px;
+}
 .cabecera nav, .boton {
 	margin-top: 50px
 }
